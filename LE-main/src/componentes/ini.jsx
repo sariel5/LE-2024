@@ -2,6 +2,7 @@ import React from "react";
 import "../estilo/index.css";
 import Pie_de_pagina from "../componentes/pie_de_pagina";
 import { Link } from "react-router-dom";
+
 function Ini() {
   return (
     <div className="app">
